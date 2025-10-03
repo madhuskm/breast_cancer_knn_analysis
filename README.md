@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.9+-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 # 🩺 Breast Cancer Classifier using K-Nearest Neighbors (KNN)
 
 This project demonstrates how to use the **K-Nearest Neighbors (KNN)** algorithm to classify breast cancer tumors as **malignant** or **benign** using the **Breast Cancer Wisconsin dataset** from `scikit-learn`.
@@ -58,4 +62,5 @@ How to visualize results with matplotlib
 Madhusudhan Sanjeev Kumar M.
 AI Product Consultant • Data & Learning Technologist
 📧 madhu@curieq.com
+
 🌐 (https://github.com/madhuskm) | (https://www.linkedin.com/in/madhuskm/)
