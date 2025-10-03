@@ -1,0 +1,10 @@
+## ⚙️ Requirements
+
+Install the required libraries before running the script:
+
+```bash
+pip install -r requirements.txt
+🧰 Libraries Used
+scikit-learn
+
+matplotlib
